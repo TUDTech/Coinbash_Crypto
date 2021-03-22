@@ -168,13 +168,6 @@ coinbash.sh:    VERBOSE: Verbose listing of information including supply data, e
 
 ![screenshot 5](https://raw.githubusercontent.com/8go/coinbash/master/coinbash-screenshot-all.png)
 
-## Disclaimer
-
-    I am not responsible for anything done with this bot.
-    You use it at your own risk.
-    There are no warranties or guarantees expressed or implied.
-    You assume all responsibility and liability.
-
 ## Contribution
 
 Thanks all for your contributions...
