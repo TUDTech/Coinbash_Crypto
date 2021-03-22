@@ -20,9 +20,6 @@
   * e.g by placing a line like this into your `.bashrc` file 
     * `export COINMARKETCAP_API_KEY="your-coinmarketcap-API-key-here"`
 * Keywords: CLI, command-line, terminal, bash, market-data, ticker, price-tracker, marketcap, crypto, crypto currencies, cryptocurrency, bitcoin, btc, ethereum
-* License: [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
-* Inspired by [https://github.com/bichenkk/coinmon](https://github.com/bichenkk/coinmon)
-
 
 ## Install
 
