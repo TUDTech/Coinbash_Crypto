@@ -11,9 +11,6 @@
 # - set the global environment variable COINMARKETCAP_API_KEY to your personal coinmarketcap-API-key,
 # - e.g export COINMARKETCAP_API_KEY="your-coinmarketcap-API-key-here"
 # - keywords: CLI, command-line, terminal, bash, market-data, ticker, price-tracker, marketcap, crypto, crypto currencies, cryptocurrency, bitcoin, btc, ethereum
-#
-# License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
-#
 
 ########## GENERAL INFO ##########
 
